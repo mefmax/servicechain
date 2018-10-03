@@ -12,6 +12,7 @@
     "extId": "${ToID}", 
     "status":"${Status}", 
     "response": "${реплика}"
+   }
 }
 ```
 - token --  токен из авторизации
